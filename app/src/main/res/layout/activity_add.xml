@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="41dp"
         android:ems="10"
-        android:hint="Descreption"
+        android:hint="Description"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
